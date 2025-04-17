@@ -21,6 +21,7 @@ Don't worry :slightly_smiling_face: Just hit Alt-K to generate /Drivers/CMCIS/ a
 * [Electronic Basics #21: OpAmp (Operational Amplifier)](https://www.youtube.com/watch?v=kqCV-HGJc6A) (GreatScott!)
 * [Op-Amps - Using Operational Amplifiers](https://www.youtube.com/watch?v=_HHxV-7alwE) (DroneBot Workshop)
 * [Operational amplifier](https://en.wikipedia.org/wiki/Operational_amplifier) (Wikipedia)
+* [Operational Amplifier Basics](https://www.electronics-tutorials.ws/opamp/opamp_1.html) (Electronics Tutorials)
 
 # Exemplary hardware
 * [DS3502](https://www.analog.com/media/en/technical-documentation/data-sheets/ds3502.pdf) (Maxim Integrated, acquired by Analog Devices)
